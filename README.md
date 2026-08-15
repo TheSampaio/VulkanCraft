@@ -5,10 +5,20 @@ vertical slice generates a deterministic procedural world, removes hidden voxel
 faces, renders it through Vulkan 1.3, and lights it with a moving directional sun
 and four cascaded shadow maps.
 
-Current version: **1.6.0**.
+Current version: **1.6.1**.
 
 This is an original learning project. It does not contain Minecraft source code,
 branding, or game assets.
+
+## Showcase
+
+| River valley | Forest horizon |
+| --- | --- |
+| ![A forested river valley with voxel terrain, clouds, and translucent water](assets/images/showcase-01.jpg) | ![A wide forest horizon fading into atmospheric fog around an ocean inlet](assets/images/showcase-02.jpg) |
+
+| Coastal landscape | Mountain lagoon |
+| --- | --- |
+| ![An aerial coastal landscape with forests, rivers, beaches, and ocean](assets/images/showcase-03.jpg) | ![An aerial mountain lagoon surrounded by forests, beaches, and distant fog](assets/images/showcase-04.jpg) |
 
 ## Features
 

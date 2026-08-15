@@ -171,7 +171,7 @@ color pipelines are skipped.
 9. Sample HDR color and depth for SSAO, bloom, volumetric fog/god rays, water SSR,
    tone mapping, and gamma correction, then present.
 
-Only one frame is in flight in version 1.6.0. This keeps shadow and depth resource
+Only one frame is in flight in version 1.6.1. This keeps shadow and depth resource
 ownership unambiguous. Increasing concurrency later requires one uniform buffer,
 depth target, and shadow target per in-flight frame.
 
