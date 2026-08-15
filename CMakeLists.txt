@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.25)
 
 project(
     VulkanCraft
-    VERSION 1.6.0
+    VERSION 1.6.1
     DESCRIPTION "A compact voxel sandbox rendered with modern Vulkan"
     LANGUAGES CXX
 )
