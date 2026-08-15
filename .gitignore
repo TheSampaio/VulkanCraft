@@ -1,0 +1,10 @@
+/build/
+/.cache/
+/.idea/
+/.vs/
+/.vscode/
+*.user
+*.suo
+*.log
+compile_commands.json
+
